@@ -1536,5 +1536,6 @@
   "light intensity": "కాంతి తీవ్రత",
   "infrared light (left)": "ఇన్ఫ్రారెడ్ లైట్ (ఎడమ)",
   "infrared light (right)": "ఇన్ఫ్రారెడ్ లైట్ (కుడి)",
-  "move": "చలింపు"
+  "move": "చలింపు",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "ఎడమ ప్యానెల్ నుండి ఒక బ్లాక్‌ను లాగి ప్రారంభ బ్లాక్‌కు కనెక్ట్ చేయండి."
 }

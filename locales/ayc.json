@@ -1535,5 +1535,6 @@
   "light intensity": "qhana lliphi ch'ama",
   "infrared light (left)": "Surump'iyasiri qhana (ch'iqäxa)",
   "infrared light (right)": "Surump'iyasiri qhana (Kupïxa)",
-  "move": "unxtayaña"
+  "move": "unxtayaña",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "Start by dragging a block from the left panel and connect it to the Start block."
 }

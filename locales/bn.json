@@ -1536,5 +1536,6 @@
   "light intensity": "light intensity",
   "infrared light (left)": "infrared light (left)",
   "infrared light (right)": "infrared light (right)",
-  "move": "move"
+  "move": "move",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "বাম প্যানেল থেকে একটি ব্লক টেনে আনুন এবং এটি শুরু ব্লকের সাথে সংযুক্ত করুন।"
 }

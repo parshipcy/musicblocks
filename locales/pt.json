@@ -1530,5 +1530,6 @@
   "light intensity": "intensidade da luz",
   "infrared light (left)": "luz infravermelha (esquerda)",
   "infrared light (right)": "luz infravermelha (direita)",
-  "move": "mover"
+  "move": "mover",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "Comece arrastando um bloco do painel à esquerda e ligue-o ao bloco Iniciar."
 }

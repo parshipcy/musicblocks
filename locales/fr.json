@@ -1535,5 +1535,6 @@
   "light intensity": "intensité lumineuse",
   "infrared light (left)": "lumière infrarouge (gauche)",
   "infrared light (right)": "lumière infrarouge (droite)",
-  "move": "mouvement"
+  "move": "mouvement",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "Commencez en faisant glisser un bloc depuis le panneau de gauche et reliez-le au bloc Démarrer."
 }

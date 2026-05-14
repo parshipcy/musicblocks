@@ -1535,5 +1535,6 @@
   "light intensity": "light intensity",
   "infrared light (left)": "แสงอินฟราเรท",
   "infrared light (right)": "แสงอินฟราเรท(ขวา)",
-  "move": "ย้าย"
+  "move": "ย้าย",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "เริ่มต้นด้วยการลากบล็อกจากแผงด้านซ้ายและเชื่อมกับบล็อกเริ่ม"
 }

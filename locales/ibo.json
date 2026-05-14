@@ -1535,5 +1535,6 @@
   "light intensity": "light intensity",
   "infrared light (left)": "infrared oku (n'aka ekpe)",
   "infrared light (right)": "oku infrared (n'aka nri)",
-  "move": "ije"
+  "move": "ije",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "Start by dragging a block from the left panel and connect it to the Start block."
 }

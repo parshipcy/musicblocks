@@ -1535,5 +1535,6 @@
   "light intensity": "light intensity",
   "infrared light (left)": "infrared light (left)",
   "infrared light (right)": "infrared light (right)",
-  "move": "זוז"
+  "move": "זוז",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "התחל בגרירת בלוק מהלוח השמאלי וחבר אותו לבלוק התחלה."
 }

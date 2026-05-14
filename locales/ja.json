@@ -6146,5 +6146,6 @@
   "neighbor": {
     "kanji": "音を加える",
     "kana": "おとを くわえる"
-  }
+  },
+  "Start by dragging a block from the left panel and connect it to the Start block.": "左のパネルからブロックをドラッグし、「スタート」ブロックに接続してください。"
 }

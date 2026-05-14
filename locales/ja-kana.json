@@ -1535,5 +1535,6 @@
   "light intensity": "光の強さ",
   "infrared light (left)": "赤外光 （左）",
   "infrared light (right)": "赤外光 （右）",
-  "move": "動き出し"
+  "move": "動き出し",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "ひだりのパネルからブロックをドラッグし、「スタート」ブロックにつなげてください。"
 }

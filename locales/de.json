@@ -1535,5 +1535,6 @@
   "light intensity": "Lichtintensität",
   "infrared light (left)": "Infrarotlicht (links)",
   "infrared light (right)": "Infrarotlicht (rechts)",
-  "move": "Roboter bewegen"
+  "move": "Roboter bewegen",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "Ziehen Sie einen Block aus dem linken Panel und verbinden Sie ihn mit dem Start-Block."
 }

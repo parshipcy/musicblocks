@@ -1535,5 +1535,6 @@
   "light intensity": "光照强度",
   "infrared light (left)": "红外光（左）",
   "infrared light (right)": "红外光（右）",
-  "move": "移动"
+  "move": "移动",
+  "Start by dragging a block from the left panel and connect it to the Start block.": "从左侧面板拖动一个方块，并连接到「开始」方块。"
 }
